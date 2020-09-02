@@ -1,0 +1,1 @@
+export const SERVERURL='http://192.168.29.114:8082/';
